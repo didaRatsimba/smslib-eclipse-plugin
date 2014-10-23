@@ -4,7 +4,7 @@ Bundle-Name: Smslib
 Bundle-SymbolicName: com.dida.plugin.smslib
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: DIDA
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Import-Package: org.apache.commons.net;version="2.0.0",
  org.apache.commons.net.telnet;version="2.0.0",
  org.apache.log4j
